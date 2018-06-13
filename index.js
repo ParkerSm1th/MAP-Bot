@@ -11,7 +11,8 @@ var app = express();
 var api = "APIKEY";
 
 var url = "https://urlhere";
-var projectname = "PROJECTNAME"
+var projectname = "PROJECTNAME";
+var color = "0xHEX";
 var copyright = `© ${projectname} 2018`;
 var apiref = `APIREF`;
 var dmoff = true;
@@ -31,7 +32,7 @@ function returnData(res, json) {
 function sendEmbed(channel, title, fields) {
   return new Promise((resolve, reject)=>{
     channel.send({embed: {
-        color: 0xC2762C,
+        color: color,
         author: {
           name: title,
           icon_url: bot.user.avatarURL
@@ -55,7 +56,7 @@ function sendEmbed(channel, title, fields) {
 function sendSimpleEmbed(channel, header, content) {
   return new Promise((resolve, reject)=>{
     channel.send({embed: {
-        color: 0xC2762C,
+        color: color,
         author: {
           name: " ",
           icon_url: bot.user.avatarURL
@@ -84,7 +85,7 @@ function sendSimpleEmbed(channel, header, content) {
 function sendErrorEmbed(channel, content) {
   return new Promise((resolve, reject)=>{
     channel.send({embed: {
-        color: 0xC2762C,
+        color: color,
         author: {
           name: " ",
           icon_url: bot.user.avatarURL
@@ -113,7 +114,7 @@ function sendErrorEmbed(channel, content) {
 function sendSuccessEmbed(channel, content) {
   return new Promise((resolve, reject)=>{
     channel.send({embed: {
-        color: 0xC2762C,
+        color: color,
         author: {
           name: "⁫ ",
           icon_url: bot.user.avatarURL
@@ -142,7 +143,7 @@ function sendSuccessEmbed(channel, content) {
 function permsError(channel) {
   return new Promise((resolve, reject)=>{
     channel.send({embed: {
-        color: 0xC2762C,
+        color: color,
         author: {
           name: "Error",
           icon_url: bot.user.avatarURL
