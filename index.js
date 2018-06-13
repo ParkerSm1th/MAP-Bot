@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const TOKEN = "BOTTOKEN";
+const TOKEN = "TOKENHERE";
 const PREFIX = "-";
 const fs = require("fs");
 const sql = require("sqlite");
@@ -10,10 +10,10 @@ var app = express();
 
 var api = "APIKEY";
 
-var url = "https://websitelink";
-var projectname = "PROJECT"
+var url = "https://urlhere";
+var projectname = "PROJECTNAME"
 var copyright = `© ${projectname} 2018`;
-var apiref = `apireference`;
+var apiref = `APIREF`;
 var dmoff = true;
 
 function returnData(res, json) {
@@ -192,6 +192,7 @@ const global = {
 
 const helpers = {
     sendEmbed: sendEmbed,
+    sendSimpleEmbed: sendSimpleEmbed,
     sendErrorEmbed: sendErrorEmbed,
     sendSuccessEmbed: sendSuccessEmbed,
     permsError: permsError,
@@ -299,7 +300,7 @@ app.use(function(req, res, next) {
 });
 
 app.listen(3000);
-successLog("Started " + projectname + "'s API on port 3000");
+successLog("Started " + projectname + "'s API on port 3000 (http://api.yeetdev.com:3000/api/" + apiref + ")");
 
 // BOT
 

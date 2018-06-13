@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 
 module.exports.run = async (bot, message, args, helpers) => {
 
-  helpers.sendSimpleEmbed(message.channnel, "Successfully ran command", args[0]);
+  helpers.sendSimpleEmbed(message.channel, "Successfully ran command", args[0]);
 
 }
 
