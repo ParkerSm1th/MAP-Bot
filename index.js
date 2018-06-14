@@ -1,20 +1,21 @@
 const Discord = require('discord.js');
-const TOKEN = "TOKENHERE";
-const PREFIX = "-";
+const TOKEN = "TOKEN";
+const PREFIX = "PREFIX";
 const fs = require("fs");
 const sql = require("sqlite");
-sql.open("./PROJECTNAME.sqlite");
+sql.open("./projectname.sqlite");
 
 var express = require('express');
 var app = express();
 
 var api = "APIKEY";
 
-var url = "https://urlhere";
-var projectname = "PROJECTNAME";
-var color = "0xHEX";
+var url = "urlhere";
+var projectname = "PROJECTNAME"
+var hex = 'HEX';
 var copyright = `© ${projectname} 2018`;
-var apiref = `APIREF`;
+var apiref = `apiref`;
+var port = 'PORT';
 var dmoff = true;
 
 function returnData(res, json) {
@@ -25,7 +26,19 @@ function returnData(res, json) {
   }
 }
 
+function hexToRgb(hex) {
+    var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    return result ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16)
+    } : null;
+}
 
+var r = hexToRgb(hex).r;
+var g = hexToRgb(hex).g;
+var b = hexToRgb(hex).b;
+var color = (r << 16) | (g << 8) | b;
 
 // FUNCTIONS!!
 
@@ -300,8 +313,8 @@ app.use(function(req, res, next) {
   res.status(500).json([{"success" : "false"}, {"error" : "An error occured"}]);
 });
 
-app.listen(3000);
-successLog("Started " + projectname + "'s API on port 3000 (http://api.yeetdev.com:3000/api/" + apiref + ")");
+app.listen(port);
+successLog("Started " + projectname + "'s API on port " + port + " (http://api.yeetdev.com:" + port + "/api/" + apiref + ")");
 
 // BOT
 
