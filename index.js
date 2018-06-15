@@ -200,7 +200,8 @@ function getTime() {
 const global = {
     url: url,
     projectname: projectname,
-    apiref: apiref
+    apiref: apiref,
+    port: port
 };
 
 
