@@ -1,7 +1,9 @@
-var includes = require('../includes.js');
+var Logger = require('../utils/logger.js');
+var config = require('../config.js');
 const fs = require("fs");
-module.exports = (bot, helpers) => {
-  helpers.successLog(`${helpers.global.projectname} Started on ${bot.guilds.size} servers`);
-  bot.user.setPresence({ game: { name: helpers.global.url, status: 'offline' } });
-  helpers.successLog(`Set status to ${helpers.global.url}`);
+module.exports = (Client, bot, helpers) => {
+  bot.user.setPresence({ game: { name: config.url, status: 'offline' } });
+  Logger.log(`Set status to ${config.url}`);
+  Logger.successLog(`${config.projectname} Started on ${Client.bot.guilds.size} servers`);
+  Logger.majorSuccessLog(`${config.projectname} IS STARTED`);
 }

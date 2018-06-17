@@ -1,5 +1,5 @@
-var includes = require('../includes.js');
+var Logger = require('../utils/logger.js');
 const fs = require("fs");
-module.exports = (bot, helpers, e) => {
-  includes.errorLog(e);
+module.exports = (Client, bot, helpers, e) => {
+  Logger.errorLog(e);
 }

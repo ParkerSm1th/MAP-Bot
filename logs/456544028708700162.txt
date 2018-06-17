@@ -1,0 +1,248 @@
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:01:42 GMT+0000 (UTC)
+?say i ment <@456198087833157647>
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:02:43 GMT+0000 (UTC)
+?say hey, <@!244169411026485259>
+Parker (212630637365035009) at Sun Jun 17 2018 19:02:55 GMT+0000 (UTC)
+-say u can't code D
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:02:57 GMT+0000 (UTC)
+?say im trying to code so only admins can use it
+Parker (212630637365035009) at Sun Jun 17 2018 19:03:03 GMT+0000 (UTC)
+-say but u cant code
+Parker (212630637365035009) at Sun Jun 17 2018 19:03:04 GMT+0000 (UTC)
+-says o
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:03:06 GMT+0000 (UTC)
+?say so im still busy
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:03:11 GMT+0000 (UTC)
+Just check roles the user has lol
+Parker (212630637365035009) at Sun Jun 17 2018 19:03:14 GMT+0000 (UTC)
+ˆˆ
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:03:15 GMT+0000 (UTC)
+Not that hard in python.
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:03:25 GMT+0000 (UTC)
+no i dont mean that
+Parker (212630637365035009) at Sun Jun 17 2018 19:03:28 GMT+0000 (UTC)
+-say Creepergilly is bad at development
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:03:37 GMT+0000 (UTC)
+What do you mean then?
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:03:38 GMT+0000 (UTC)
+?say F### you
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:03:55 GMT+0000 (UTC)
+Lol
+Parker (212630637365035009) at Sun Jun 17 2018 19:04:05 GMT+0000 (UTC)
+-eval message.guild.members.get('456553094138953749').id
+Parker (212630637365035009) at Sun Jun 17 2018 19:04:13 GMT+0000 (UTC)
+-eval message.guild.members.get('456553094138953749').username
+Parker (212630637365035009) at Sun Jun 17 2018 19:04:16 GMT+0000 (UTC)
+-eval message.guild.members.get('456553094138953749').user.username
+Parker (212630637365035009) at Sun Jun 17 2018 19:04:30 GMT+0000 (UTC)
+-eval message.guild.members.get('456553094138953749').kickk();
+Parker (212630637365035009) at Sun Jun 17 2018 19:04:33 GMT+0000 (UTC)
+😄
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:04:35 GMT+0000 (UTC)
+Lollll
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:04:46 GMT+0000 (UTC)
+i almost got it
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:05:02 GMT+0000 (UTC)
+<@264489096188002338> can i test my kick command an ya?
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:09 GMT+0000 (UTC)
+<@212630637365035009> do you do web development?
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:12 GMT+0000 (UTC)
+i do
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:16 GMT+0000 (UTC)
+<@!244169411026485259> pm me and invite
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:18 GMT+0000 (UTC)
+Then yes.
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:22 GMT+0000 (UTC)
+An*
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:05:23 GMT+0000 (UTC)
+no i ment here on this server
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:27 GMT+0000 (UTC)
+Yea
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:28 GMT+0000 (UTC)
+Ik
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:30 GMT+0000 (UTC)
+thats what he means
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:32 GMT+0000 (UTC)
+Send me an invite code
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:33 GMT+0000 (UTC)
+dm him an invite
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:33 GMT+0000 (UTC)
+To the server
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:05:35 GMT+0000 (UTC)
+ok
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:35 GMT+0000 (UTC)
+so he can come back
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:05:37 GMT+0000 (UTC)
+So I can rejoin
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:38 GMT+0000 (UTC)
+after u kick him
+Parker (212630637365035009) at Sun Jun 17 2018 19:05:40 GMT+0000 (UTC)
+dummy
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:05:42 GMT+0000 (UTC)
+?kick <@264489096188002338>
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:06:03 GMT+0000 (UTC)
+hes command back
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:06:07 GMT+0000 (UTC)
+It works.
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:06:11 GMT+0000 (UTC)
+Lol rip me
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:06:12 GMT+0000 (UTC)
+comming back not command back xD
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:06:21 GMT+0000 (UTC)
+xD
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:06:33 GMT+0000 (UTC)
+im trying so only admins can do it 😄
+Parker (212630637365035009) at Sun Jun 17 2018 19:06:40 GMT+0000 (UTC)
+<@!244169411026485259> can i test mine on ur bot?
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:06:44 GMT+0000 (UTC)
+Funny thing is that I’ve made a bot in java, JavaScript, and python
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:06:47 GMT+0000 (UTC)
+no
+Parker (212630637365035009) at Sun Jun 17 2018 19:06:48 GMT+0000 (UTC)
+same knight
+Parker (212630637365035009) at Sun Jun 17 2018 19:06:59 GMT+0000 (UTC)
+js is the best tho so
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:07:02 GMT+0000 (UTC)
+my bot will be gone and i have to wait untill Piggy comes back
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:07:03 GMT+0000 (UTC)
+Ike
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:07:05 GMT+0000 (UTC)
+Ikr
+Parker (212630637365035009) at Sun Jun 17 2018 19:07:24 GMT+0000 (UTC)
+?ping
+Parker (212630637365035009) at Sun Jun 17 2018 19:07:26 GMT+0000 (UTC)
+-ping
+Parker (212630637365035009) at Sun Jun 17 2018 19:07:35 GMT+0000 (UTC)
+<@!244169411026485259> u dont even send the ping L
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:07:38 GMT+0000 (UTC)
+L
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:08:03 GMT+0000 (UTC)
+?say i havent worked on that
+Parker (212630637365035009) at Sun Jun 17 2018 19:08:11 GMT+0000 (UTC)
+its not hard..
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:08:23 GMT+0000 (UTC)
+?say for the beginner python yes
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:08:43 GMT+0000 (UTC)
+Just look at docs. Won’t take that long to figure out.
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:08:57 GMT+0000 (UTC)
+yes thats what im doing rn
+Tyler (351991098387988491) at Sun Jun 17 2018 19:09:00 GMT+0000 (UTC)
+t!ping
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:09:10 GMT+0000 (UTC)
+?say im still looking https://i.imgur.com/L7k0leK.png
+Tyler (351991098387988491) at Sun Jun 17 2018 19:10:17 GMT+0000 (UTC)
+t
+Tyler (351991098387988491) at Sun Jun 17 2018 19:10:36 GMT+0000 (UTC)
+t!eval message.channel.send('Test');
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:10:37 GMT+0000 (UTC)
+The best part about making bots is that most owners think it’s like super friken hard.
+Tyler (351991098387988491) at Sun Jun 17 2018 19:10:48 GMT+0000 (UTC)
+why does it have a promise wtf
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:10:58 GMT+0000 (UTC)
+?say idk
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:10:59 GMT+0000 (UTC)
+It returns a promise.
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:11:09 GMT+0000 (UTC)
+Why though
+Tyler (351991098387988491) at Sun Jun 17 2018 19:11:16 GMT+0000 (UTC)
+idk
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:11:57 GMT+0000 (UTC)
+?say <@264489096188002338> help me with command perms pls
+Tyler (351991098387988491) at Sun Jun 17 2018 19:12:14 GMT+0000 (UTC)
+thats easy with python
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:12:24 GMT+0000 (UTC)
+?say im pretty damn new tho
+Tyler (351991098387988491) at Sun Jun 17 2018 19:12:35 GMT+0000 (UTC)
+ik but that is basic
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:13:30 GMT+0000 (UTC)
+?say do you understand this (hallo mijn naam is Creepergilly vandaag ben ik mooi)
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:13:35 GMT+0000 (UTC)
+Tyler, the promise just contains the message you sent.
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:13:57 GMT+0000 (UTC)
+Tyler, wanna help him with perms?
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:13:59 GMT+0000 (UTC)
+t!eval message.channel.send('hello');
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:14:04 GMT+0000 (UTC)
+Lol
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:14:07 GMT+0000 (UTC)
+Typicaly
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:14:10 GMT+0000 (UTC)
+aww only him 😦
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:14:14 GMT+0000 (UTC)
+Only bot devs can use their evals
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:14:23 GMT+0000 (UTC)
+Because js Eval has access to the entire machine
+Tyler (351991098387988491) at Sun Jun 17 2018 19:14:32 GMT+0000 (UTC)
+here @bot.command(pass_context=True)
+@commands.has_role("Staff")
+async def kick(ctx, user: discord.Member):
+    await bot.say("👢 Cya, {}. Ya loser!".format(user.name))
+    await bot.kick(user)
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:14:52 GMT+0000 (UTC)
+?
+Tyler (351991098387988491) at Sun Jun 17 2018 19:15:07 GMT+0000 (UTC)
+oh wait wrong one
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:11 GMT+0000 (UTC)
+;-;
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:15:19 GMT+0000 (UTC)
+Lol
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:26 GMT+0000 (UTC)
+say FAIL xD
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:30 GMT+0000 (UTC)
+oops
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:35 GMT+0000 (UTC)
+?say Fail XD i failed as well
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:15:44 GMT+0000 (UTC)
+-say You failed, Creepergilly
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:51 GMT+0000 (UTC)
+xD
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:15:54 GMT+0000 (UTC)
+?say we are failed
+Tyler (351991098387988491) at Sun Jun 17 2018 19:15:57 GMT+0000 (UTC)
+wait i cant find it just look at docs i would help you but im kinda busy
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:16:04 GMT+0000 (UTC)
+Kk
+Tyler (351991098387988491) at Sun Jun 17 2018 19:16:06 GMT+0000 (UTC)
+t!say hi
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:16:17 GMT+0000 (UTC)
+?say im trying tyler it scrolls so fast
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:16:19 GMT+0000 (UTC)
+t!say I like your bot, Mr. Tyler.
+Tyler (351991098387988491) at Sun Jun 17 2018 19:16:33 GMT+0000 (UTC)
+t!say thanks
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:16:43 GMT+0000 (UTC)
+t!help
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:16:49 GMT+0000 (UTC)
+t!iptime
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:16:54 GMT+0000 (UTC)
+t!uptime
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:17:56 GMT+0000 (UTC)
+?say ?Ticket
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:18:02 GMT+0000 (UTC)
+?say NANI????
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:21:38 GMT+0000 (UTC)
+?Get <@351991098387988491>
+Tyler (351991098387988491) at Sun Jun 17 2018 19:21:45 GMT+0000 (UTC)
+?
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:21:46 GMT+0000 (UTC)
+?get <@351991098387988491>
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:22:20 GMT+0000 (UTC)
+?get <@351991098387988491>
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:23:04 GMT+0000 (UTC)
+?say -say hello
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:23:14 GMT+0000 (UTC)
+?say t!say hello
+Tyler (351991098387988491) at Sun Jun 17 2018 19:25:56 GMT+0000 (UTC)
+t!setafk
+Tyler (351991098387988491) at Sun Jun 17 2018 19:26:06 GMT+0000 (UTC)
+t!afk
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:32:02 GMT+0000 (UTC)
+t!afk
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:32:13 GMT+0000 (UTC)
+t!help
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:32:39 GMT+0000 (UTC)
+t!profile
+KnightMax (264489096188002338) at Sun Jun 17 2018 19:33:08 GMT+0000 (UTC)
+t!profile <@456553094138953749>
+Creepergilly (244169411026485259) at Sun Jun 17 2018 19:35:47 GMT+0000 (UTC)
+help me with permisiions

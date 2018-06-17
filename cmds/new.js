@@ -1,7 +1,6 @@
-var includes = require('../includes.js');
 const Discord = require('discord.js');
 
-module.exports.run = async (bot, message, args, helpers) => {
+module.exports.run = async (Client, bot, message, args, helpers) => {
 
   helpers.sendSimpleEmbed(message.channel, "Successfully ran command", args[0]);
 

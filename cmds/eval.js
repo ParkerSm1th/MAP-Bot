@@ -1,4 +1,4 @@
-var includes = require('../includes.js');
+const Logger = require('../utils/logger.js');
 const hastebin = require('hastebin-gen');
 
 function clean(text) {
@@ -9,7 +9,7 @@ function clean(text) {
   }
 }
 
-module.exports.run = async (bot, message, args, helpers) => {
+module.exports.run = async (Client, bot, message, args, helpers) => {
   if (message.author.id !== '212630637365035009' && message.author.id !== '300678696036073482') return;
     try {
       const code = args.slice(1).join(" ");
@@ -24,10 +24,9 @@ module.exports.run = async (bot, message, args, helpers) => {
       if (evaled.length > 1500) {
         hastebin(`${evaled}`, "js").then(r => {
           helpers.sendErrorEmbed(message.channel, `The output was over 1.5k characters, I have uploaded to hastebin. Uploaded to ${r}.`);
-        }).catch(err => includes.errorLog(err));
+        }).catch(err => Logger.errorLog(err));
       } else {
         message.channel.send(clean(evaled), {code:"xl"});
-        message.channel.stopTyping();
       }
     } catch (err) {
       message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
