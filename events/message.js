@@ -16,7 +16,7 @@ ${message.content}\n`;
     }
   }
   let prefix = Config.prefix;
-  if (!message.content.startsWith("-")) return;
+  if (!message.content.startsWith(prefix)) return;
   let messageArray = message.content.trim().split(" ");
   let cmd = messageArray[0];
   let args = messageArray;
