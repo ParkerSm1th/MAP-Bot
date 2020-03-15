@@ -8,7 +8,7 @@ module.exports.run = async (Client, bot, message, args, helpers) => {
   .catch(err => {
     Client.Logger.errorLog(err);
   });
-  helpers.sendEmbed(message.author, 'Getting started with Discord', [
+  helpers.sendEmbedWithPics(message.author, 'Getting started with Discord', [
     {
       name: "Intro",
       value: "Hi! I'm the **MAP Bot**! A lot of students are new to discord and are a little confused on how it works. I am here to help you with that a little bit :)"
@@ -25,7 +25,7 @@ module.exports.run = async (Client, bot, message, args, helpers) => {
       name: "Setup **Push to talk**",
       value: "To setup push to talk you need to click the settings icon next to your name and then click Voice & Video(if you are on your computer), if you are on your phone you need to click your profile picture then scroll to where it says voice, click that then from there it is the same on computer & your phone. Once to the settings page click 'Input Mode' and you can choose Voice Activity or Push to Talk. You need to choose Push to Talk for the MAP server. From there on the computer you can choose a keybind and on your phone there will be a button you can click to talk when you are in a voice channnel."
     }
-  ]);
+  ], ['./images/img1.png', './images/img2.png']);
 
 }
 

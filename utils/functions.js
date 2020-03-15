@@ -54,6 +54,29 @@ module.exports = {
       });
     });
   },
+  sendEmbedWithPics: function (channel, title, fields, pics) {
+    return new Promise((resolve, reject)=>{
+      channel.send({embed: {
+          color: color,
+          author: {
+            name: title,
+            icon_url: Config.avatar
+          },
+          url: url,
+          fields: fields,
+          timestamp: new Date(),
+          footer: {
+            text: copyright
+          },
+          files: pics
+        }
+      }).then(message => {
+        resolve(message);
+      }).catch(err => {
+        reject(err);
+      });
+    });
+  },
   sendSimpleEmbed: function (channel, header, content) {
     return new Promise((resolve, reject)=>{
       channel.send({embed: {

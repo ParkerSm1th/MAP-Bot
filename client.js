@@ -30,6 +30,7 @@ class Client {
     };
     this.helpers = {
         sendEmbed: Functions.sendEmbed,
+        sendEmbedWithPics: Functions.sendEmbedWithPics,
         sendSimpleEmbed: Functions.sendSimpleEmbed,
         sendErrorEmbed: Functions.sendErrorEmbed,
         sendSuccessEmbed: Functions.sendSuccessEmbed,
