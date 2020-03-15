@@ -5,7 +5,7 @@ var projectname = "MAP Bot"
 var hex = 'F43D4F';
 var copyright = `© ${projectname} 2020`;
 var apiref = `mapbot`;
-var port = '4000';
+var port = '2052';
 var avatarURL = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyKl5CzILBghm7AfvixkxmGza3Q3imjj7YZjh5Nvv3R-59kYh9';
 var dmoff = true;
 var prefix = "!";
