@@ -11,7 +11,7 @@ module.exports = {
     app.get(`/api/${apiref}/logs/:variable`,function(req,res) {
         var arg1 = req.params.variable;
         if (bot.channels.get(arg1) != null) {
-          res.sendFile('/home/DevBot/logs/' + arg1 + ".txt");
+          res.sendFile('/home/bot-host/MAP-Bot/logs/' + arg1 + ".txt");
         } else {
           helpers.returnData(res, "");
         }
