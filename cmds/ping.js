@@ -5,8 +5,8 @@ module.exports.run = async (Client, bot, message, args, helpers) => {
     if (difference > 999) {
       difference = difference / 1000;
     }
-
-  helpers.sendSuccessEmbed(message.channel, `Pong! Ping is ${bot.pings[0]}ms`);
+  message.delete();
+  helpers.sendSuccessEmbed(message.author, `Pong! Ping is ${bot.pings[0]}ms`);
 
 }
 

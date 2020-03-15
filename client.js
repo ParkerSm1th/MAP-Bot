@@ -10,6 +10,7 @@ const Logger = require('./utils/logger.js');
 const Loader = require('./loader.js');
 const Functions = require('./utils/functions.js');
 const APIClass = require('./utils/api.js');
+const bannedWords = Functions.loadBannedWords();
 
 class Client {
   constructor() {
@@ -18,6 +19,7 @@ class Client {
     this.APIClass = APIClass;
     this.Loader = Loader;
     this.app = express();
+    this.bannedWords = bannedWords;
     this.bot = new Discord.Client();
     this.global = {
         url: Config.url,

@@ -16,6 +16,8 @@ var copyright = Config.copyright;
 var apiref = Config.apiref;
 var port = Config.port;
 var dmoff = Config.dmoff;
+var fs = require('fs');
+var readLine = require('readline');
 
 var r = hexToRgb(hex).r;
 var g = hexToRgb(hex).g;
@@ -42,7 +44,6 @@ module.exports = {
           fields: fields,
           timestamp: new Date(),
           footer: {
-            icon_url: Config.avatar,
             text: copyright
           }
         }
@@ -174,6 +175,17 @@ module.exports = {
     var nd = new Date(utc + (3600000*+1));
     return nd.toLocaleString();
   },
-
+  loadBannedWords: function(){
+        var bannedWords = [];
+        var filename = './banned.txt';
+        readLine.createInterface({
+            input: fs.createReadStream(filename),
+            terminal: false
+        })
+        .on('line', function(line){
+            bannedWords.push(line);
+        });
+        return bannedWords;
+    }
 
 }

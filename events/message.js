@@ -15,6 +15,30 @@ ${message.content}\n`;
       return true;
     }
   }
+  var words = message.content.split(' ');
+  for (var word of words) {
+    if (Client.bannedWords.indexOf(word) > -1) {
+      message.delete();
+      helpers.sendEmbed(message.channel, "You broke a rule!", [
+        {
+          name: "Swearing",
+          value: "You can not swear on this discord. Teachers have been notified."
+        }
+      ]);
+      const teacherChannel = message.guild.channels.find(channel => channel.name === "logs")
+      helpers.sendEmbed(teacherChannel, "A rule was broke", [
+        {
+          name: "Swearing",
+          value: `<@${message.author.id}> swore`
+        },
+        {
+          name: "What they said",
+          value: message.content
+        }
+      ]);
+      return true;
+    }
+  }
   let prefix = Config.prefix;
   if (!message.content.startsWith(prefix)) return;
   let messageArray = message.content.trim().split(" ");
