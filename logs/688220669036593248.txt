@@ -306,3 +306,59 @@ Parker (212630637365035009) at Sun Mar 15 2020 16:05:40 GMT-0700 (PDT)
 !help
 Shriya Srinivasan (688253794772844554) at Sun Mar 15 2020 16:07:05 GMT-0700 (PDT)
 !help
+Parker (212630637365035009) at Sun Mar 15 2020 16:20:00 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 16:20:34 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 16:23:20 GMT-0700 (Pacific Daylight Time)
+!eval message
+koharuru (688234423321362448) at Sun Mar 15 2020 16:23:46 GMT-0700 (Pacific Daylight Time)
+when is the deadline for logo?
+School Acount (299993926557892638) at Sun Mar 15 2020 16:23:54 GMT-0700 (Pacific Daylight Time)
+today midnight
+koharuru (688234423321362448) at Sun Mar 15 2020 16:24:02 GMT-0700 (Pacific Daylight Time)
+frick
+School Acount (299993926557892638) at Sun Mar 15 2020 16:24:08 GMT-0700 (Pacific Daylight Time)
+yeah
+Parker (212630637365035009) at Sun Mar 15 2020 16:24:27 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 16:26:35 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 16:26:50 GMT-0700 (Pacific Daylight Time)
+!eval message.content
+Parker (212630637365035009) at Sun Mar 15 2020 16:27:06 GMT-0700 (Pacific Daylight Time)
+!eval message.guild.channels
+Lauren (629753744078405653) at Sun Mar 15 2020 16:35:42 GMT-0700 (Pacific Daylight Time)
+
+katherine (688893174994960489) at Sun Mar 15 2020 16:40:03 GMT-0700 (Pacific Daylight Time)
+
+Nathan Zaragoza (497255046564806657) at Sun Mar 15 2020 16:57:14 GMT-0700 (Pacific Daylight Time)
+Is the logo optional
+TheTurkeyKing (624389720125734977) at Sun Mar 15 2020 16:59:55 GMT-0700 (Pacific Daylight Time)
+yeh
+TheoryOfLegends (570327614871568384) at Sun Mar 15 2020 17:00:08 GMT-0700 (Pacific Daylight Time)
+wat logo
+School Acount (299993926557892638) at Sun Mar 15 2020 17:00:24 GMT-0700 (Pacific Daylight Time)
+Logo contest
+School Acount (299993926557892638) at Sun Mar 15 2020 17:00:28 GMT-0700 (Pacific Daylight Time)
+not mandatory
+TheoryOfLegends (570327614871568384) at Sun Mar 15 2020 17:00:41 GMT-0700 (Pacific Daylight Time)
+wait what is this logo contest?
+Parker (212630637365035009) at Sun Mar 15 2020 17:05:46 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 17:06:14 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 17:06:31 GMT-0700 (Pacific Daylight Time)
+!eval message
+Parker (212630637365035009) at Sun Mar 15 2020 17:07:25 GMT-0700 (Pacific Daylight Time)
+!eval message.guild
+School Acount (299993926557892638) at Sun Mar 15 2020 17:08:10 GMT-0700 (Pacific Daylight Time)
+
+Parker (212630637365035009) at Sun Mar 15 2020 17:09:20 GMT-0700 (Pacific Daylight Time)
+!eval message.guild
+Parker (212630637365035009) at Sun Mar 15 2020 17:09:38 GMT-0700 (Pacific Daylight Time)
+!eval message.guild
+Parker (212630637365035009) at Sun Mar 15 2020 17:10:02 GMT-0700 (Pacific Daylight Time)
+!eval test
+Parker (212630637365035009) at Sun Mar 15 2020 17:10:12 GMT-0700 (Pacific Daylight Time)
+!eval message.guild
